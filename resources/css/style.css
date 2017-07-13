@@ -1,14 +1,14 @@
-#title{
+#Title{
   Font-family: Verdana;
   Font-Weight: Normal;
-  Color: Weight;
+  Color: White;
   font-size: 50px;
 }
 #Download{
   Color: Aquamarine;
   Font-size: 16px;
 }
-.html{
+html{
   background-color: Black;
 }
 h2{
@@ -23,4 +23,7 @@ h2{
 }
 #Bottomright{
   Color: Grey;
+}
+#Personal{
+  color: white;
 }
